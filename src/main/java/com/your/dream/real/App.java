@@ -12,8 +12,8 @@ public class App
 	}
 	
     public static void main( String[] args ) {
-    	for(String arg : args) {
+    	/*for(String arg : args) {
     		logger.log("parameter: " + arg);
-    	}
+    	}*/
     }
 }
